@@ -26,5 +26,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: sajjatdev/pafu:17.0
+          tags: sajjatdev/smpp_sms_gateway:1.0.0
 
