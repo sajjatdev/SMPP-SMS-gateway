@@ -1,6 +1,6 @@
-const express = require("express");
-const { nanoid } = require("nanoid");
-const smpp = require("smpp");
+import express from "express";
+import { nanoid } from "nanoid";
+import smpp from "smpp";
 
 const app = express();
 app.use(express.json());
